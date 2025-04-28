@@ -1,11 +1,12 @@
-📝 Note App with TypeScript
+# 📝 Note App with TypeScript
 
 This project is a simple and efficient note-taking web application built with modern technologies such as React, TypeScript, Redux Toolkit, and Material-UI (MUI). Users can create, edit, categorize, and view their notes with a clean and responsive interface.
 
-🔗 Live Demo: Note App with TS
+🔗 Live Demo: Note App with TS  
 🔗 GitHub Repository: GitHub Repo
 
-🚀 Features
+# 🚀 Features
+
 ✅ Create, Edit, and Delete Notes:
 
 - Easily add new notes with title and content.
@@ -28,7 +29,7 @@ This project is a simple and efficient note-taking web application built with mo
 
 - Built with Material-UI (MUI) for a modern, consistent, and mobile-friendly user interface.
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 - React 19 & TypeScript
 - Redux Toolkit & Redux Persist
