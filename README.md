@@ -2,8 +2,8 @@
 
 This project is a simple and efficient note-taking web application built with modern technologies such as React, TypeScript, Redux Toolkit, and Material-UI (MUI). Users can create, edit, categorize, and view their notes with a clean and responsive interface.
 
-🔗 Live Demo: Note App with TS  
-🔗 GitHub Repository: GitHub Repo
+🔗 Live Demo: [Note App with TS](https://note-app-vert-sigma.vercel.app/)  
+🔗 GitHub Repository: [GitHub Repo](https://github.com/kisisellhesap/note-app)
 
 # 🚀 Features
 
