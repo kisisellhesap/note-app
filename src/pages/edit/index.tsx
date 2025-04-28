@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { Note, updateNote } from "../../redux/slices/notesSlice";
-import { Navigate, useNavigate, useOutletContext } from "react-router-dom";
+import { useNavigate, useOutletContext } from "react-router-dom";
 import { PageContainer } from "../../components/form/container";
 import { Typography } from "@mui/material";
 import Form from "../../components/form";

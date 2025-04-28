@@ -31,7 +31,11 @@ const TagSelect = ({ selectedTags, handleAddTag, handleDeleteTag }: Props) => {
           color="primary"
           fullWidth
           value={newTag}
-          onChange={(e, tag) => handleAddTag(tag as string)}
+          onChange={(e, tag) => {
+            handleAddTag(tag as string);
+
+            console.log(e);
+          }}
           renderInput={(params) => (
             <TextField
               {...params}

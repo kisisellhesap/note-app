@@ -25,7 +25,10 @@ const Filter = ({ setTitle, setSelectedTags }: Props) => {
           multiple
           id="tags-standard"
           options={tags}
-          onChange={(e, allTags) => setSelectedTags(allTags)}
+          onChange={(e, allTags) => {
+            setSelectedTags(allTags);
+            console.log(e);
+          }}
           renderInput={(params) => (
             <TextField
               {...params}
